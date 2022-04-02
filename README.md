@@ -2,7 +2,7 @@
 
 # INTRODUCCIÓN A LA PROGRAMACIÓN CON R 💻
 
-¡Bienvenidas y bienvenidos! En este repositorio encontrarán los contenidos de programación con R para el Curso Básico de R, por parte del CIBA Tlaxcala.
+¡Bienvenidas y bienvenidos! En este repositorio encontrarán los contenidos de programación con R para el Curso Básico de R, por parte del CIBA Tlaxcala. Este curso es parte del programa de difución cientifica encabezado por la Dra. Angelica Del Carmen Ruiz Font, con la finalidad de facilitar el aprendizaje de dicho lenguaje de programación, y poder hacer uso de sus herramientas en el campo de la Bioinformática. 
 
 ## CONTENIDO
 Este es un pequeño curso para todas las personas que desean aprender a programar en el lenguaje  R, abarca los temas más básicos, hasta enfocarnos en aplicaciones en el mundo de la bioinformatica. 
