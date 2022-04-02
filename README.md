@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/76456116/161364163-ce2bc94e-550f-4745-8e04-ad14bded3016.png)
 
-# INTRODUCCIÓN A LA PROGRAMACIÓN CON R
+# INTRODUCCIÓN A LA PROGRAMACIÓN CON R 💻
 
 ¡Bienvenidas y bienvenidos! En este repositorio encontrarán los contenidos de programación con R para el Curso Básico de R, por parte del CIBA Tlaxcala.
 
@@ -20,7 +20,7 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 #  Ejecutar Código
 Para ejecutar el código, basta con abrir la libreta de jupyter y correr el programa  desde el entorno en la nube.
 
-# Contribuyente
+# Contribuyente 🤝
 Si encontraste una mejora, te intivo a realizar un *Issue* o un *Pull Request* con el cambio.
 
 Github: [DaanUM](https://github.com/DaanUM)
