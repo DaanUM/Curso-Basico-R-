@@ -11,9 +11,9 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 |:--- |:---|
 | ‣ Bienvenida| [Archivo Bienvenida](http://localhost:8888/notebooks/Bienvenido%20a%20R.ipynb)|
 | ‣ Introducción| [Archivo de Introducción](http://localhost:8888/notebooks/Introducci%C3%B3n%20R.ipynb)|
-|  ‣  Estructuras de Datos | Archivo Estructuras de datos |
+| ‣ Estructuras de Datos | Archivo Estructuras de datos |
 | ‣ Manejo de Datos | Archivo Manejo de datos|
-| ‣ Programcación | Archivo Funciones |
+| ‣ Programación | Archivo Funciones |
 | ‣ Importar y exportar datos | Archivo exportacion e importación de datos|
 | ‣ Gráficos | Archivo Gráficos |
 | ‣ Bioinformática| Archivo Bioinformática|
