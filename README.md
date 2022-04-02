@@ -9,7 +9,7 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 
 | TEMAS | JUPYTER NOTEBOOK |
 |:--- |:---|
-| ‣ Bienvenida| Archivo Bienvenida|
+| ‣ Bienvenida| [Archivo Bienvenida](http://localhost:8888/notebooks/Bienvenido%20a%20R.ipynb)|
 | ‣ Introducción| Archivo de Introducción|
 |  ‣  Estructuras de Datos | Archivo Estructuras de datos |
 | ‣ Manejo de Datos | Archivo Manejo de datos|
