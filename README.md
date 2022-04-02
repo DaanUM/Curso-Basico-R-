@@ -16,6 +16,7 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 | ‣ Programcación | Archivo Funciones |
 | ‣ Importar y exportar datos | Archivo exportacion e importación de datos|
 | ‣ Gráficos | Archivo Gráficos |
+| ‣ Bioinformática| Archivo Bioinformática|
 
 #  Ejecutar Código
 Para ejecutar el código, basta con abrir la libreta de jupyter y correr el programa  desde el entorno en la nube.
