@@ -25,4 +25,4 @@ Si encontraste una mejora, te intivo a realizar un *Issue* o un *Pull Request* c
 
 Github: [DaanUM](https://github.com/DaanUM)
   
-Email:  [daanuriel@outlook.es](https://outlook.live.com/owa/
+Email:  [daanuriel@outlook.es](https://outlook.live.com/owa/)
