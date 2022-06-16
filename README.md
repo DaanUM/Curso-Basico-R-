@@ -9,7 +9,7 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 
 | TEMAS | JUPYTER NOTEBOOK |
 |:--- |:---|
-| ‣ Bienvenida| [Archivo Bienvenida](http://localhost:8888/notebooks/Bienvenido%20a%20R.ipynb)|
+| ‣ Bienvenida| [Archivo Bienvenida](https://colab.research.google.com/drive/15Yz55D3Sy7p6RhxoMFm1xw91Hod6Gox9)|
 | ‣ Introducción| [Archivo de Introducción](http://localhost:8888/notebooks/Introducci%C3%B3n%20R.ipynb)|
 | ‣ Estructuras de Datos | [Archivo Estructuras de datos](http://localhost:8888/notebooks/Estructuras%20de%20Datos%20R.ipynb)|
 | ‣ Manejo de Datos | [Archivo Manejo de datos](http://localhost:8888/notebooks/MANEJO%20DE%20DATOS.ipynb)|
