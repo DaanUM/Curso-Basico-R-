@@ -11,12 +11,12 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 |:--- |:---|
 | ‣ Bienvenida| [Archivo Bienvenida](https://colab.research.google.com/drive/15Yz55D3Sy7p6RhxoMFm1xw91Hod6Gox9)|
 | ‣ Introducción| [Archivo de Introducción](https://colab.research.google.com/drive/14H0ma341lEcVQj4nW0AwGrBfdTQYtNZA#scrollTo=ca3e73dc)|
-| ‣ Estructuras de Datos | [Archivo Estructuras de datos](http://localhost:8888/notebooks/Estructuras%20de%20Datos%20R.ipynb)|
-| ‣ Manejo de Datos | [Archivo Manejo de datos](http://localhost:8888/notebooks/MANEJO%20DE%20DATOS.ipynb)|
-| ‣ Programación | Archivo Funciones |
-| ‣ Importar y exportar datos | Archivo exportacion e importación de datos|
-| ‣ Gráficos | Archivo Gráficos |
-| ‣ Bioinformática| Archivo Bioinformática|
+| ‣ Estructuras de Datos | [Archivo Estructuras de datos](https://colab.research.google.com/drive/1gRWyHYGSDrr2pAw2i7j-OFjw-sZ-__gc)|
+| ‣ Manejo de Datos | [Archivo Manejo de datos](https://colab.research.google.com/drive/1n0HPI-6kR6XMxdABMxWdhjXeq4puFsB2?hl=es)|
+| ‣ Programación | [Archivo Funciones] |
+| ‣ Importar y exportar datos | [Archivo exportacion e importación de datos](https://colab.research.google.com/drive/1imkqG_XsQcv--bP-XFlf7QHkkCN1nQsS)|
+| ‣ Gráficos | [Archivo Gráficos] |
+| ‣ Bioinformática| [Archivo Bioinformática]|
 
 #  Ejecutar Código
 Para ejecutar el código, basta con abrir la libreta de jupyter y correr el programa  desde el entorno en la nube.
