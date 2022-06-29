@@ -13,7 +13,7 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 | ‣ Introducción| [Archivo de Introducción](https://colab.research.google.com/drive/14H0ma341lEcVQj4nW0AwGrBfdTQYtNZA#scrollTo=ca3e73dc)|
 | ‣ Estructuras de Datos | [Archivo Estructuras de datos](https://colab.research.google.com/drive/1gRWyHYGSDrr2pAw2i7j-OFjw-sZ-__gc)|
 | ‣ Manejo de Datos | [Archivo Manejo de datos](https://colab.research.google.com/drive/1n0HPI-6kR6XMxdABMxWdhjXeq4puFsB2?hl=es)|
-| ‣ Programación | [Archivo Funciones] |
+| ‣ Programación | [Archivo Funciones](https://colab.research.google.com/drive/1edb6hdGeICZu2gGoYDjoQsMz-sTCJ37v?hl=es) |
 | ‣ Importar y exportar datos | [Archivo exportacion e importación de datos](https://colab.research.google.com/drive/1imkqG_XsQcv--bP-XFlf7QHkkCN1nQsS)|
 | ‣ Bioinformática| [Archivo Bioinformática]|
 
