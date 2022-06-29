@@ -15,7 +15,6 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 | ‣ Manejo de Datos | [Archivo Manejo de datos](https://colab.research.google.com/drive/1n0HPI-6kR6XMxdABMxWdhjXeq4puFsB2?hl=es)|
 | ‣ Programación | [Archivo Funciones] |
 | ‣ Importar y exportar datos | [Archivo exportacion e importación de datos](https://colab.research.google.com/drive/1imkqG_XsQcv--bP-XFlf7QHkkCN1nQsS)|
-| ‣ Gráficos | [Archivo Gráficos] |
 | ‣ Bioinformática| [Archivo Bioinformática]|
 
 #  Ejecutar Código
