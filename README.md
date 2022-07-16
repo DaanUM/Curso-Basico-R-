@@ -7,7 +7,7 @@
 ## CONTENIDO
 Este es un pequeño curso para todas las personas que desean aprender a programar en el lenguaje  R, abarca los temas más básicos, hasta enfocarnos en aplicaciones en el mundo de la bioinformatica. 🧬🔬
 
-| TEMAS | JUPYTER NOTEBOOK |
+| TEMAS | COLAB NOTEBOOK |
 |:--- |:---|
 | ‣ Bienvenida| [Archivo Bienvenida](https://colab.research.google.com/drive/15Yz55D3Sy7p6RhxoMFm1xw91Hod6Gox9)|
 | ‣ Introducción| [Archivo de Introducción](https://colab.research.google.com/drive/14H0ma341lEcVQj4nW0AwGrBfdTQYtNZA#scrollTo=ca3e73dc)|
@@ -15,10 +15,10 @@ Este es un pequeño curso para todas las personas que desean aprender a programa
 | ‣ Manejo de Datos | [Archivo Manejo de datos](https://colab.research.google.com/drive/1n0HPI-6kR6XMxdABMxWdhjXeq4puFsB2?hl=es)|
 | ‣ Programación | [Archivo Funciones](https://colab.research.google.com/drive/1edb6hdGeICZu2gGoYDjoQsMz-sTCJ37v?hl=es) |
 | ‣ Importar y exportar datos | [Archivo exportacion e importación de datos](https://colab.research.google.com/drive/1imkqG_XsQcv--bP-XFlf7QHkkCN1nQsS)|
-| ‣ Bioinformática| [Archivo Bioinformática]|(https://colab.research.google.com/drive/1vQZw-EaH9EcYDMtFFIkJb8N2vF4ukoOP?hl=es#scrollTo=40da49ec)
+| ‣ Bioinformática| [Archivo Bioinformática](https://colab.research.google.com/drive/1vQZw-EaH9EcYDMtFFIkJb8N2vF4ukoOP?hl=es#scrollTo=40da49ec)|
 
 #  Ejecutar Código
-Para ejecutar el código, basta con abrir la libreta de jupyter en google colab y compilar el programa  desde un entorno de ejecución local, alojado o bien una maquina virtual.
+Para ejecutar el código, basta con abrir la COLAB NOTEBOOK y compilar el programa  desde un entorno de ejecución local, alojado o bien una maquina virtual.
 
 # Contribuyente 🤝
 Si encontraste una mejora, te intivo a realizar un *Issue* o un *Pull Request* con el cambio.
